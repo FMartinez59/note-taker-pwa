@@ -3,7 +3,7 @@
 ## My task is to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 
 ## Heres how it works
-https://fmartinez59.github.io/note-taker-pwa/
+https://dry-spire-96885.herokuapp.com/
 
 ## Demo
 ![Demo of NoteTaker.](./assets/images/00-demo.gif)
